@@ -11,11 +11,9 @@ A Windows Forms desktop application for inventory management built with .NET Fra
 - **Order Details**: Manage individual order line items
 - **Statistics**: Reports and analytics dashboard
 
-## System Requirements
-- Windows 7 or later
+## System Requiremens
 - .NET Framework 4.5+
 - Microsoft SQL Server 2014 (local instance required)
-- 2GB RAM minimum
 
 ## Installation
 1. **SQL Server 2014 Setup**
