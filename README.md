@@ -1,4 +1,3 @@
-# stock-manager-app
 # Stock Manager App (.NET) - Documentation
 
 ## Overview
@@ -13,16 +12,13 @@ A Windows Forms desktop application for inventory management built with .NET Fra
 - **Statistics**: Reports and analytics dashboard
 
 ## System Requirements
-- Windows 7 or later
 - .NET Framework 4.5+
 - Microsoft SQL Server 2014 (local instance required)
-- 2GB RAM minimum
 
 ## Installation
 1. **SQL Server 2014 Setup**
    - Install Microsoft SQL Server 2014 (Express or full version)
    - Create database named "Project"
-   - Ensure SQL Server instance "GSTR2_SERVER" is running
    
 2. **Application Setup**
    - Download and extract the application files
@@ -69,9 +65,3 @@ StockAPP/
 - **Data Access**: ADO.NET with SqlCommand and SqlDataReader
 - **Connection String**: Integrated Security with SSL encryption
 - **Architecture**: Windows Forms with direct database access
-## Getting Started
-2. Login with your credentials
-3. Use the main dashboard to navigate to different modules
-4. Start by adding products and clients
-5. Create orders and manage inventory
-6. View reports in the Statistics section
